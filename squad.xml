@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="POJ">
+	<name>PowerofJeff</name>
+	<email>N/A</email>
+	<web>N/A</web>
+	<picture>myhre.paa</picture>
+	<title></title>
+<member id="76561197969383650" nick="Jeff">
+		<name>Jeff Myhre</name>
+		<email>Jeffrccar@yahoo.com</email>
+		<icq>N/A</icq>
+		<remark>Speak into the mic</remark>
+	</member>
+</squad>
